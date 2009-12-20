@@ -144,9 +144,14 @@ a img {
  * page and comments stylesheets).
  */
 	
-	
-	
-	
+.page-user-login #columns {
+  margin: 0 auto;
+  width: 500px;
+}
+
+.page-user-login #content {
+  font-size: 130%;
+}	
 	
 	
 	
