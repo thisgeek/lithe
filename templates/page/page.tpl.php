@@ -91,14 +91,8 @@
   <title><?php print $head_title; ?></title>
   <?php print $styles; ?>
   <?php print $scripts; ?>
-</head>
-<?php
-/**
- * Change the body id selector to your preferred layout, e.g body id="genesis-1a".
- * @see layout.css
- */
-?>        
-<body id="genesis-1b" <?php print $section_class; ?>>
+</head>      
+<body id="genesis-2b" <?php print $section_class; ?>>
   <div id="container" class="<?php print $classes; ?>">
 
     <div id="skip-nav">
