@@ -1,0 +1,57 @@
+div.geshifilter {background-color: #000000;}
+
+.geshifilter.geshifilter .de1, .geshifilter .de2 {font-weight: normal; font-style: normal}
+.geshifilter .imp {font-weight: bold; color: red;}
+.geshifilter li, .geshifilter .li1 {font-weight: normal;}
+.geshifilter .ln {width:1px;text-align:right;margin:0;padding:0 2px;vertical-align:top;}
+.geshifilter .li2 {font-weight: bold; font-style: italic;}
+
+/* Keywords */
+.geshifilter .kw1 {color: #DA8F70;}
+.geshifilter .kw2 {color: #A3D56C; font-weight: bold;}
+.geshifilter .kw3 {color: #E2D89B;}
+.geshifilter .kw4 {color: #009900; font-weight: bold;}
+
+/* Comments */
+.geshifilter .co1 {color: #666666; font-style: italic;}
+.geshifilter .co2 {color: #666666; font-style: italic;}
+.geshifilter .co3 {color: #0000cc; font-style: italic;}
+.geshifilter .co4 {color: #009933; font-style: italic;}
+.geshifilter .coMULTI {color: #666666; font-style: italic;}
+
+/* Escape Characters */
+.geshifilter .es0 {color: #000099; font-weight: bold;}
+.geshifilter .es1 {color: #000099; font-weight: bold;}
+.geshifilter .es2 {color: #660099; font-weight: bold;}
+.geshifilter .es3 {color: #660099; font-weight: bold;}
+.geshifilter .es4 {color: #006699; font-weight: bold;}
+.geshifilter .es5 {color: #006699; font-weight: bold; font-style: italic;}
+.geshifilter .es6 {color: #009933; font-weight: bold;}
+.geshifilter .es_h {color: #000099; font-weight: bold;}
+
+/* Brackets */
+.geshifilter .br0 {color: #FFFFFF;}
+
+/* Symbols */
+.geshifilter .sy0 {color: #DA8F70;}
+.geshifilter .sy1 {color: #000000; font-weight: bold;}
+
+/* Strings */
+.geshifilter .st0 {color: #6CBB5B;}
+.geshifilter .st_h {color: #0000ff;}
+
+/* Numbers */
+.geshifilter .nu0 {color: #cc66cc;}
+.geshifilter .nu8 {color: #208080;}
+.geshifilter .nu12 {color: #208080;}
+.geshifilter .nu19 {color:#800080;}
+
+/* Methods */
+.geshifilter .me1 {color: #3C9BE5;}
+.geshifilter .me2 {color: #004000;}
+
+/* Regular Expressions */
+.geshifilter .re0 {color: #3C9BE5;}
+
+.geshifilter .ln-xtra, .geshifilter li.ln-xtra, .geshifilter div.ln-xtra {background-color: #ffc;}
+.geshifilter span.xtra { display:block; }
