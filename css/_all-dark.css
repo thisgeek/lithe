@@ -14,8 +14,8 @@
  * style.css
  *
  * USAGE
- * 1) Unset the mini stylesheets in genesis_lithe.info by commenting them out.
- * 2) Enable _all-dark.css by uncommenting it in genesis_lithe.info
+ * 1) Unset the mini stylesheets in lithe.info by commenting them out.
+ * 2) Enable _all-dark.css by uncommenting it in lithe.info
  *
  * The file is useful for working around IE7's 30 max stylesheets issue
  * when you cannot turn on CSS aggregation in Performance settings.

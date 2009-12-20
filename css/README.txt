@@ -1,7 +1,7 @@
   
-  /genesis_lithe/CSS
+  /lithe/CSS
   
-  This directory contains the genesis_lithe CSS files.
+  This directory contains the lithe CSS files.
   
   /ie/ie-example.css
     An empty IE stylesheet to support the Conditional Styles module. 
