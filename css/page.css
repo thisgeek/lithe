@@ -262,7 +262,9 @@ body > #container {
  *                 Header Elements
  **********************************************************/
 /* #header wraps #branding, #search-box-top and #header-blocks. */
-#header {}
+#header {
+  margin: 1em 0 3em 0;
+}
 
 /* #branding wraps #logo, #site-name and #site-slogan. */
 #branding {
