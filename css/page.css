@@ -415,6 +415,9 @@ dl.search-results dd .search-info {}
  */
 #nav {
   margin: 0.75em 0;
+  position: absolute;
+  top: 1em;
+  right: 0;
 }
 
 /**
