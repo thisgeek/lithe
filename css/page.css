@@ -549,7 +549,9 @@ dl.search-results dd .search-info {}
  *                    H1 Page Title
  **********************************************************/
 /* The main title on each page. */
-h1#page-title {}
+h1#page-title {
+  color: #EC8F53;
+}
 
 
 /**********************************************************
