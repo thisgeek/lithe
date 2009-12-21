@@ -267,6 +267,12 @@ body > #container {
 /* #branding wraps #logo, #site-name and #site-slogan. */
 #branding {
   float: left; /* LTR */
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 170%;
+}
+
+.not-front #branding {
+  font-size: 100%;
 }
 
 /* h1 is for the front page only, all others use the div. */
