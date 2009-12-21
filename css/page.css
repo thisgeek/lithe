@@ -302,8 +302,15 @@ div.logo-site-name strong {}
 
 /* Override default pseudo class styles. */
 #site-name a:link    {}
-#site-name a:visited {}
-#site-name a:hover   {}
+#site-name a:visited {
+  color: #A3D56C;
+  text-decoration: none;
+  border-bottom: 1px dotted #A3D56C;
+}
+#site-name a:hover   {
+  color: yellow;
+  border-bottom: 1px dashed yellow;
+}
 #site-name a:focus   {}
 #site-name a:active  {}
 
