@@ -36,7 +36,7 @@
 .node .user-picture img {}
 
 /* Submitted */
-.node-submitted {}
+.node-submitted {color: #B0B0BF;}
 .node-submitted a {}
 .node-submitted a:hover {}
 
