@@ -1,4 +1,7 @@
-div.geshifilter {background-color: #000000;}
+div.geshifilter {
+  background-color: #000000;
+  color: #EEEEEE;
+}
 
 
 /* http://nicksergeant.com/blog/everything-else/sunburst-geshi-css-pack */
